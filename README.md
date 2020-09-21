@@ -1,0 +1,1 @@
+# FolderLock.bat
