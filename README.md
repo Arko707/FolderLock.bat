@@ -1,4 +1,4 @@
-#FolderLock
+# Folder-Lock
 
 This is .bat format file and now lets come to the point that how to use this file.
 
