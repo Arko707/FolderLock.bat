@@ -1,3 +1,5 @@
+#FolderLock
+
 This is .bat format file and now lets come to the point that how to use this file.
 
 Step 1 : copy the code to the notepad.
